@@ -9,9 +9,7 @@ Mobile App Developer
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Android Apps
 
-<a href="https://www.twitter.com/krishnapandeyy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/krishnapandeyy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
