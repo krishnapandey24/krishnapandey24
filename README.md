@@ -4,10 +4,11 @@ Hi 👋 My name is Krishna
 Mobile App Developer
 --------------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [krishnapandey2405@gmail.com](mailto:krishnapandey2405@gmail.com)
-* 🧠  I'm learning React JS
+* 🌍  I'm From India
+* 🧠  I'm currently learning React JS
 * 🤝  I'm open to collaborating on Android Apps
+* ✉️  You can contact me at [krishnapandey2405@gmail.com](mailto:krishnapandey2405@gmail.com)
+
 
 
 
