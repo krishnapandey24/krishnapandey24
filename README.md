@@ -4,12 +4,13 @@ Hi 👋 My name is Krishna
 Android App Developer
 --------------------
 
-🙋‍♂️About Me:
+### 🙋‍♂️About Me:
+
 I am a third-year engineering student, pursuing a bachelor’s degree in Computer Science and Engineering.
 
-* 📱 I’m good at developing Android Apps with Java and Kotlin.
-* 🌱 I’m currently learning Data Structures & Algorithms and ReactJS.
-* 👯 I’m looking to collaborate on Open source projects.
+* 📱 I’m good at developing **Android Apps with Java and Kotlin**.
+* 🌱 I’m currently learning **Data Structures & Algorithms and ReactJS.**
+* 👯 I’m looking to collaborate on **Open source projects.**
 * ✉️  You can contact me at [krishnapandey2405@gmail.com](mailto:krishnapandey2405@gmail.com)
 
 
