@@ -1,9 +1,6 @@
 Hi 👋 My name is Krishna
 ========================
 
-Android App Developer
---------------------
-
 ### 🙋‍♂️About Me:
 
 I am a third-year engineering student, pursuing a bachelor’s degree in Computer Science and Engineering.
