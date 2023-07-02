@@ -1,9 +1,7 @@
 Hi 👋 My name is Krishna
 ========================
 
-### 🙋‍♂️About Me:
-
-I am a third-year engineering student, pursuing a bachelor’s degree in Computer Science and Engineering.
+I am a fourth-year engineering student, pursuing a bachelor’s degree in Computer Science and Engineering.
 
 * 📱 I’m good at developing **Android Apps with Java and Kotlin**.
 * 🌱 I’m currently learning **Data Structures & Algorithms and Sprint Boot.**
