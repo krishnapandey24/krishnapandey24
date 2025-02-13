@@ -1,7 +1,7 @@
 Hi 👋 My name is Krishna
 ========================
 
-I am an Android Developer with a bachelor’s degree in Computer Science and Engineering.
+I am an Android & Flutter Developer with a bachelor’s degree in Computer Science and Engineering.
 
 * 📱 I’m good at developing **Android and Flutter apps**.
 * 🤝 I’m looking to collaborate on **Open source projects.**
