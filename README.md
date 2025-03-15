@@ -5,6 +5,7 @@ I am an Android & Flutter Developer with a bachelor’s degree in Computer Scien
 
 * 📱 I’m good at developing **Android and Flutter apps**.
 * 🤝 I’m looking to collaborate on **Open source projects.**
+* 💼 Currently working at [**Unacademy**](https://github.com/unacademy)
 * ✉️  You can contact me at [krishnapandey2405@gmail.com](mailto:krishnapandey2405@gmail.com)
 
 ### Skills
